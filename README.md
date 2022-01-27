@@ -1,8 +1,8 @@
 Hello! I'm Rose White, a current senior computer science/ digital media major at Taylor University. My hobbies include hiking, learning new things, and coding beautiful user experiences!
 
-I've interned as a Software Developer @ Samaritan's Purse('21) and Kratos Defense ('20). My roles extended across the full stack, but I especially enjoyed front-end development.
+I've interned as a Software Developer @ Samaritan's Purse('21) and Kratos Defense ('20). My roles extended across the full stack, but I especially enjoyed front-end development. Finally, I'm excited to be joining Credera as a tech consultant post-college. 
 
-I'm excited to be joining Credera as a tech consultant post-college. Enjoy looking at my work!
+Enjoy looking at my work!
 
 <!---
 rmwtaylor22/rmwtaylor22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
